@@ -27,7 +27,7 @@ all-features = true
 maintenance = { status = "passively-maintained" }
 
 [dependencies]
-ddc = "0.2"
+ddc = "0.3"
 i2c = "0.1"
 resize-slice = "0.1"
 
